@@ -1,0 +1,22 @@
+1. Opened Git Bash.
+
+2. Verified Python installation:
+python --version
+
+3. Verified pip installation:
+pip --version
+
+4. Verified Git installation:
+git --version
+
+5. Verified Jupyter installation:
+python -m jupyter --version
+
+6. Created project folders:
+mkdir screenshots
+mkdir outputs
+
+7. Started Jupyter Notebook:
+jupyter notebook
+
+8. Developed and tested Structural_Project.ipynb
